@@ -14,5 +14,5 @@ MYMETA.yml
 nytprof.out
 pm_to_blib
 
-#Add some ignore files beyond perl
 *.swp
+*.swo
