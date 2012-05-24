@@ -1,0 +1,10 @@
+.
+..
+command.md
+.command.md.swp
+framework.sh
+io.sh
+system.md
+.system.md.swp
+.tour.md.swp
+/home/tc/Work/linux/shell
