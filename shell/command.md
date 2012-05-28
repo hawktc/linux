@@ -72,7 +72,11 @@ chomd 654 dic/ # d rw- r-x r-- ===  d 110 101 100
 Jobs Control
 ---
 - ps
-- kill
+- kill # 1 SIGHUP | 2 SIGINT | 15 SIGTERM | 9 SIGKILL
 - jobs
 - bg
 - fg
+
+$ xload &  $ jobs  $ kill %1  $ xload &  $ ps  $ kill pid
+
+

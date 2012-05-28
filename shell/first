@@ -1,0 +1,4 @@
+#!/bin/bash
+# my first script
+
+echo "hello script shell and bash"
